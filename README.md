@@ -19,6 +19,9 @@ I'm a <b>Web Developer</b> building experience via real world and open-sources p
 <a href="https://codepen.io/pranav-jadhav-Developer-x">
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 </a>
+<a href="mailto:jrpranavofficial097@gmail.com">
+<img src="https://img.shields.io/badge/-jrpranavofficial097@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
 
 ## ⚡️ Technologies
 
