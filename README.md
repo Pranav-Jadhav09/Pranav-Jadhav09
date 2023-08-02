@@ -17,7 +17,7 @@ I'm a <b>Web Developer</b> building experience via building <i>real-world</i> an
 <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=BioLink&logoColor=white">
 </a>
 <a href="https://codepen.io/pranav-jadhav-Developer-x">
-<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+<img src="https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 </a>
 <a href="mailto:jrpranavofficial097@gmail.com">
 <img src="https://img.shields.io/badge/-jrpranavofficial097@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
