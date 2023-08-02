@@ -6,7 +6,7 @@ I'm a <b>Web Developer</b> building experience via building <i>real-world</i> an
 <img src="https://img.shields.io/badge/@Pranav_Jadhav09-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 <a href="https://github.com/Pranav-Jadhav09">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
+<img src="https://img.shields.io/badge/Pranav_Jadhav09-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
 <a href="https://thejrpranav09.hashnode.dev/">
 <img src="https://img.shields.io/badge/@jrpranav09-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
 </a>
