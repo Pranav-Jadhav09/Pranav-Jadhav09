@@ -10,7 +10,7 @@ I'm a <b>Web Developer</b> building experience via building <i>real-world</i> an
 <a href="https://thejrpranav09.hashnode.dev/">
 <img src="https://img.shields.io/badge/@jrpranav09-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/pranav-jadhav-521710285/">
+<a href="https://www.linkedin.com/in/pranav-jr/">
 <img src="https://img.shields.io/badge/-Pranav_Jadhav-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 <a href="https://thejrpranav.bio.link/">
