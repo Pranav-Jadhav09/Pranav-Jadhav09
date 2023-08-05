@@ -3,7 +3,7 @@
 I'm a <b>Web Developer</b> building experience via building <i>real-world</i> and <i>open-sources</i> projects and <b>learning in public</b>. I am a tech enthusiast and always open to collaborate on projects and innovate/disrupt ideas. Find out more about me & feel free to connect with me here:
 
 <a href="https://twitter.com/Pranav_Jadhav09">
-<img src="https://img.shields.io/badge/@Pranav_Jadhav09-1DA1F2?style=flat-square&logo=twitter&logoColor=white">
+<img src="https://img.shields.io/badge/@Pranav_Jadhav09-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 <a href="https://github.com/Pranav-Jadhav09">
 <img src="https://img.shields.io/badge/Pranav_Jadhav09-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
