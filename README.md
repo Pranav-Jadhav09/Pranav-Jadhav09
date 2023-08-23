@@ -19,10 +19,10 @@ I'm a <b>Web Developer</b> building experience via building <i>real-world</i> an
 <a href="https://codepen.io/pranav-jadhav-Developer-x">
 <img src="https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 </a>
-<a href="mailto:jrpranavofficial097@gmail.com">
+<!-- <a href="mailto:jrpranavofficial097@gmail.com">
 <img src="https://img.shields.io/badge/-jrpranavofficial097@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
-
+ -->
 
 [![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Jadhav09&bg_color=181616&color=259ad4&line=0f8ad7&point=1bbce4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
