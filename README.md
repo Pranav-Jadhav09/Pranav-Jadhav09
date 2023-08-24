@@ -1,7 +1,7 @@
 # Hi, I am Pranav! Great to see you here! 👋🏻
 
 #### I'm a <b>Web Developer</b> 
-- I am a tech enthusiast and always open to collaborate on projects and innovate/disrupt ideas.
+- I am a Tech Enthusiast and always open to collaborate on projects and innovate or disrupt ideas.
 - Building <b>real world</b> projects and contributing to <b>open sources</b>. <b>#Learning In Public</b>. 
 - Find out more about me & feel free to connect with me here:
 
