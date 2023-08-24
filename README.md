@@ -26,12 +26,6 @@
 <img src="https://img.shields.io/badge/Tech_Team_Titans-purple?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<!-- <a href="mailto:jrpranavofficial097@gmail.com">
-<img src="https://img.shields.io/badge/-jrpranavofficial097@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
-</a>
- -->
-
-
 [![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Jadhav09&bg_color=11314f&color=188ed8&line=33a0d7&point=2cbee2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡️ Technologies
@@ -68,6 +62,4 @@
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-
-### Happy Coding  👨🏼‍💻👾⚡️
 
