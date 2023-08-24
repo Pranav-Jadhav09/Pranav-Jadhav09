@@ -1,6 +1,9 @@
-## Hi, I am Pranav! Great to see you here! 👋🏻
+# Hi, I am Pranav! Great to see you here! 👋🏻
 
-I'm a <b>Web Developer</b> building experience via building <i>real-world</i> and <i>open-sources</i> projects and <b>learning in public</b>. I am a tech enthusiast and always open to collaborate on projects and innovate/disrupt ideas. Find out more about me & feel free to connect with me here:
+#### I'm a <b>Web Developer</b> 
+- I am a tech enthusiast and always open to collaborate on projects and innovate/disrupt ideas.
+- Building <b>real world</b> projects and contributing to <b>open sources</b>. <b>#Learning In Public</b>. 
+- Find out more about me & feel free to connect with me here:
 
 <a href="https://twitter.com/Pranav_Jadhav09">
 <img src="https://img.shields.io/badge/@Pranav_Jadhav09-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
@@ -27,7 +30,7 @@ I'm a <b>Web Developer</b> building experience via building <i>real-world</i> an
 <img src="https://img.shields.io/badge/-jrpranavofficial097@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
  -->
-<hr />
+
 
 [![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Jadhav09&bg_color=11314f&color=188ed8&line=33a0d7&point=2cbee2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -44,21 +47,18 @@ I'm a <b>Web Developer</b> building experience via building <i>real-world</i> an
 
 ### Libraries & Framework :
 
-<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
-<!-- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) -->
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-<!-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) -->
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
+
 
 ### DevOps & Cloud Tools:
 
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-7DF9FF?style=for-the-badge&logo=github&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-<!-- ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) -->
+
 
 ### AI Tools
 
@@ -68,7 +68,6 @@ I'm a <b>Web Developer</b> building experience via building <i>real-world</i> an
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<hr>
-<div align="center">
- Happy Coding  👨🏼‍💻👾⚡️
- </div>
+
+### Happy Coding  👨🏼‍💻👾⚡️
+
