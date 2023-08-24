@@ -29,7 +29,7 @@ I'm a <b>Web Developer</b> building experience via building <i>real-world</i> an
  -->
 <hr />
 
-[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Jadhav09&bg_color=2f1e26&color=32c5f5&line=39d5ea&point=3448df&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Jadhav09&bg_color=11314f&color=188ed8&line=33a0d7&point=2cbee2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚡️ Technologies
 
