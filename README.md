@@ -19,6 +19,10 @@ I'm a <b>Web Developer</b> building experience via building <i>real-world</i> an
 <a href="https://codepen.io/pranav-jadhav-Developer-x">
 <img src="https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 </a>
+<a href="https://www.instagram.com/techteamtitans/">
+<img src="https://img.shields.io/badge/Tech_Team_Titans-purple?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
 <!-- <a href="mailto:jrpranavofficial097@gmail.com">
 <img src="https://img.shields.io/badge/-jrpranavofficial097@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
