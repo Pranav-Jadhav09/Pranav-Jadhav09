@@ -16,7 +16,7 @@ I'm a <b>Web Developer</b> building experience via building <i>real-world</i> an
 <a href="https://thejrpranav.bio.link/">
 <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=BioLink&logoColor=white">
 </a>
-<a href="https://codepen.io/pranav-jadhav-Developer-x">
+<a href="https://codepen.io/Tech-Team-Titans">
 <img src="https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 </a>
 <a href="https://www.instagram.com/techteamtitans/">
