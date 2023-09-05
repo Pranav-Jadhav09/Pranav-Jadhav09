@@ -22,8 +22,8 @@
 <a href="https://codepen.io/Tech-Team-Titans">
 <img src="https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 </a>
-<a href="https://www.instagram.com/techteamtitans/">
-<img src="https://img.shields.io/badge/Tech_Team_Titans-purple?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/thewildnotion/">
+<img src="https://img.shields.io/badge/The_Wild_Notion-purple?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 [![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Jadhav09&bg_color=11314f&color=188ed8&line=33a0d7&point=2cbee2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
