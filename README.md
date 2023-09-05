@@ -16,8 +16,8 @@
 <a href="https://www.linkedin.com/in/pranav-jr/">
 <img src="https://img.shields.io/badge/-Pranav_Jadhav-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
-<a href="https://thejrpranav.bio.link/">
-<img src="https://img.shields.io/badge/-Bio-link-black?style=for-the-badge&logo=BioLink&logoColor=white">
+<a href="https://">
+<img src="https://img.shields.io/badge/Bio_link-black?style=for-the-badge&logo=BioLink&logoColor=white">
 </a>
 <a href="https://codepen.io/Tech-Team-Titans">
 <img src="https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
