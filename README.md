@@ -47,11 +47,12 @@
 <!--![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)-->
 
 
-### DevOps & Cloud Tools:
+### Hosting Platforms & Tools:
 
 ![Github Pages](https://img.shields.io/badge/github%20pages-7DF9FF?style=for-the-badge&logo=github&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Onrender](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=#00C7B7)
 
 
 ### AI & Design Tools
