@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/www.jrpranav.com-255E63?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 <a href="https://twitter.com/Pranav_Jadhav09">
-<img src="https://img.shields.io/badge/@Pranav_Jadhav09-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+<img src="https://img.shields.io/badge/@Pranav_Jadhav09-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
 <a href="https://github.com/Pranav-Jadhav09">
 <img src="https://img.shields.io/badge/Pranav_Jadhav09-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
