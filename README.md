@@ -5,6 +5,9 @@
 - Building <b>real world</b> projects and contributing to <b>open sources</b>. <b>#Learning In Public</b>. 
 - Find out more about me & feel free to connect with me here:
 
+<a href="https://jrpranav.com">
+<img src="https://img.shields.io/badge/www.jrpranav.com-101010?style=for-the-badge&logo=website&logoColor=white">
+</a>
 <a href="https://twitter.com/Pranav_Jadhav09">
 <img src="https://img.shields.io/badge/@Pranav_Jadhav09-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
