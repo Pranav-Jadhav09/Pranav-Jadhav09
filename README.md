@@ -54,7 +54,7 @@
 
 ![C](https://img.shields.io/badge/C_Programming-%2300599C.svg?style=flat-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-badge&logo=c-sharp&logoColor=white)--> <br />
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-badge&logo=c-sharp&logoColor=white) <br />
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-badge&logo=typescript&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-badge&logo=WebAssembly&logoColor=white) <br />
@@ -63,7 +63,6 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-badge&logo=lua&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=flat-badge&logo=Scratch&logoColor=white)
 
-<br />
 <br />
 
 <!-- Web Development -->
@@ -90,7 +89,6 @@
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-badge&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-badge&logo=next.js&logoColor=white)
 <br />
-<br />
 
 <!-- backend -->
 
@@ -103,7 +101,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flate-badge&logo=firebase&logoColor=black)
 <br />
-<br />
 
 <!-- Libraries -->
 
@@ -114,7 +111,6 @@
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=flat-badge&logo=chart.js&logoColor=white) 
 ![Green Sock](https://img.shields.io/badge/Green%20Sock%20Animation-black?style=flat-badge&logo=greensock&logoColor=green)
 ![p5js](https://img.shields.io/badge/P5.js-ED225D?style=flat-badge&logo=p5.js&logoColor=FFFFFF)
-<br />
 <br />
 
 <!-- Hosting -->
@@ -128,13 +124,9 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-badge&logo=vercel&logoColor=white)
 <br />
-<br />
 
 
-
-
-
-### AI & Design Tools
+## 🤖 AI & Design Tools
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat-badge&logo=openai&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-badge&logo=Canva&logoColor=white)
