@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Back-end Development**
+- 🌱 I’m currently learning **JavaScript**
+
+- 🗂 Checkout all the projects 👉🏻 [**here**](https://github.com/Pranav-Jadhav09/Everything.at.once)
 
 - 👨‍💻 All of my projects are available at [https://jrpranav.com](https://jrpranav.com)
 
@@ -52,7 +54,7 @@
 
 ![C](https://img.shields.io/badge/C_Programming-%2300599C.svg?style=flat-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-badge&logo=c-sharp&logoColor=white) <br />
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-badge&logo=c-sharp&logoColor=white)--> <br />
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-badge&logo=typescript&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-badge&logo=WebAssembly&logoColor=white) <br />
@@ -108,8 +110,8 @@
 <b>Libraries :</b> <br />
 
 ![jQuery](https://img.shields.io/badge/JQuery-%230769AD.svg?style=flat-badge&logo=jquery&logoColor=white)
-![Threejs](https://img.shields.io/badge/Three.js-black?style=flat-badge&logo=three.js&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=flat-badge&logo=chart.js&logoColor=white)
+![Threejs](https://img.shields.io/badge/Three.js-black?style=flat-badge&logo=three.js&logoColor=white) 
+![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=flat-badge&logo=chart.js&logoColor=white) 
 ![Green Sock](https://img.shields.io/badge/Green%20Sock%20Animation-black?style=flat-badge&logo=greensock&logoColor=green)
 ![p5js](https://img.shields.io/badge/P5.js-ED225D?style=flat-badge&logo=p5.js&logoColor=FFFFFF)
 <br />
@@ -124,7 +126,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub_Pages-100000?style=flat-badge&logo=github&logoColor=white)
 ![OnRender](https://img.shields.io/badge/Render-46E3B7?style=flat-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-badge&logo=netlify&logoColor=black)
-![](https://img.shields.io/badge/Vercel-000000?style=flat-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-badge&logo=vercel&logoColor=white)
 <br />
 <br />
 
