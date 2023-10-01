@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jrpranav.com](https://jrpranav.com)
 
-- 📝 I regularly write articles on [https://hashnode.dev](https://piyushgarg.dev)
+- 📝 I regularly write articles on [https://thejrpranav09.hashnode.dev/](https://thejrpranav09.hashnode.dev/)
 
 - 💬 Ask me about **JavaScript, AI Tools, Tailwind CSS Etc.**
 
@@ -50,14 +50,12 @@
 <!-- Programming Languages -->
 ## 👨🏼‍💻 Programming Languages
 
-<br />
-
 ![C](https://img.shields.io/badge/C_Programming-%2300599C.svg?style=flat-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-badge&logo=c-sharp&logoColor=white) <br />
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-badge&logo=typescript&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-badge&logo=WebAssembly&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-badge&logo=WebAssembly&logoColor=white) <br />
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-badge&logo=python&logoColor=blue)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-badge&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-badge&logo=lua&logoColor=white)
@@ -80,9 +78,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flate-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flate-badge&logo=javascript&logoColor=%23F7DF1E)
 ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-badge&logo=json&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-badge&logo=typescript&logoColor=white) <br />
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-badge&logo=bootstrap&logoColor=white)<br />
 ![React](https://img.shields.io/badge/React.js-%2320232a.svg?style=flat-badge&logo=react&logoColor=%2361DAFB)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-badge&logo=react%20query&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-badge&logo=react-router&logoColor=white)
