@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 🗂 Checkout all the projects 👉🏻 [**here**](https://github.com/Pranav-Jadhav09/Everything.at.once)
+- 🗂 Checkout my website 👉🏻 [**jrpranav.com**](https://jrpranav.com)
 
-- 👨‍💻 All of my projects are available at [https://jrpranav.com](https://jrpranav.com)
+- 👨‍💻 All of my projects are available at 👉🏻 [Repo - All Projects](https://github.com/Pranav-Jadhav09/Everything-at-once)
 
-- 📝 I regularly write articles on [https://thejrpranav09.hashnode.dev/](https://thejrpranav09.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode.dev](https://thejrpranav09.hashnode.dev/)
 
 - 💬 Ask me about **JavaScript, AI Tools, Tailwind CSS Etc.**
 
@@ -54,6 +54,11 @@
 
 ![C](https://img.shields.io/badge/C_Programming-%2300599C.svg?style=flat-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-badge&logo=javascript&logoColor=%23F7DF1E)
+
+<!--
+![C](https://img.shields.io/badge/C_Programming-%2300599C.svg?style=flat-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-badge&logo=c-sharp&logoColor=white) <br />
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-badge&logo=typescript&logoColor=white)
@@ -62,6 +67,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-badge&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-badge&logo=lua&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=flat-badge&logo=Scratch&logoColor=white)
+ -->
 
 <br />
 
@@ -78,19 +84,21 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flate-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flate-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flate-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-badge&logo=bootstrap&logoColor=white)
+<!-- 
 ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-badge&logo=json&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-badge&logo=typescript&logoColor=white) <br />
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-badge&logo=bootstrap&logoColor=white)<br />
 ![React](https://img.shields.io/badge/React.js-%2320232a.svg?style=flat-badge&logo=react&logoColor=%2361DAFB)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-badge&logo=react%20query&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-badge&logo=reacthookform&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-badge&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-badge&logo=next.js&logoColor=white)
+-->
 <br />
 
-<!-- backend -->
+<!-- backend 
 
 <b>Back-end :</b> <br />
 
@@ -101,16 +109,18 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flate-badge&logo=firebase&logoColor=black)
 <br />
-
+-->
 <!-- Libraries -->
 
 <b>Libraries :</b> <br />
 
+![Green Sock](https://img.shields.io/badge/Green%20Sock%20Animation-black?style=flat-badge&logo=greensock&logoColor=green)
 ![jQuery](https://img.shields.io/badge/JQuery-%230769AD.svg?style=flat-badge&logo=jquery&logoColor=white)
+<!-- 
 ![Threejs](https://img.shields.io/badge/Three.js-black?style=flat-badge&logo=three.js&logoColor=white) 
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=flat-badge&logo=chart.js&logoColor=white) 
-![Green Sock](https://img.shields.io/badge/Green%20Sock%20Animation-black?style=flat-badge&logo=greensock&logoColor=green)
 ![p5js](https://img.shields.io/badge/P5.js-ED225D?style=flat-badge&logo=p5.js&logoColor=FFFFFF)
+-->
 <br />
 
 <!-- Hosting -->
