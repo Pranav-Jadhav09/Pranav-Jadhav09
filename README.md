@@ -139,7 +139,7 @@
 
 ## 🤖 AI & Design Tools
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-badge&logo=openai&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-badge&logo=Canva&logoColor=white)
 
 
