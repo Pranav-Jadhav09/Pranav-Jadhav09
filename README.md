@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi, 👋🏻 I am <b>Pranav</b> <br/> This is what I've To Achieve in next 12Months!
+## Hi, 👋🏻 I am <b>Pranav</b> <br/> This is what I've To Achieve in next 12 Months!
 </div>
 
 - 🔭 I’m currently working on **MERN Stack**
