@@ -104,5 +104,5 @@ Find out more about me & feel free to connect with me here:
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pranav-Jadhav09&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Jadhav09&theme=tokyonight" />
+ 
 </p>
