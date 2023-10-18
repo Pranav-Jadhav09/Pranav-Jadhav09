@@ -1,5 +1,5 @@
 <!-- Banner -->
-
+![Banner](./banner.png)
 
 <!-- Social Links -->
 <a target="_blank" href="https://jrpranav.com">
