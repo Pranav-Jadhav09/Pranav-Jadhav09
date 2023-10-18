@@ -154,7 +154,7 @@ consequuntur at, eligendi ut rerum dicta!
 ## Stats
 
 <div align="center">
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Jadhav09&bg_color=11314f&color=188ed8&line=33a0d7&point=2cbee2&area=true&hide_border=false" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Jadhav09&bg_color=11314f&color=188ed8&line=33a0d7&point=2cbee2&area=true&hide_border=false" />
 </div>
 
 <div align="center">
