@@ -60,8 +60,6 @@ See [my website](https://jrpranav.com) for more information!
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=flat-badge&logo=Scratch&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-badge&logo=markdown&logoColor=white)
 
-<br />
-
 ### Libraries & Framework :
 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-badge&logo=tailwind-css&logoColor=white)
@@ -83,8 +81,6 @@ See [my website](https://jrpranav.com) for more information!
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flate-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flate-badge&logo=mysql&logoColor=white)
-
-<br />
 
 ### DevOps & Cloud Tools:
 
