@@ -97,10 +97,12 @@ See [my website](https://jrpranav.com) for more information!
 
 ## Stats
 
+<div align="center">
 <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Jadhav09&bg_color=11314f&color=188ed8&line=33a0d7&point=2cbee2&area=true&hide_border=false" />
+</div>
 
 <div align="center">
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Pranav-Jadhav09&show_icons=true&theme=tokyonight">
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Pranav-Jadhav09&theme=shades-of-purple">
-<div>
+</div>
 
