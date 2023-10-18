@@ -44,7 +44,7 @@ See [my website](https://jrpranav.com) for more information!
 
 ## Skills
 
-### Language :
+**_Languages_**
 
 ![C](https://img.shields.io/badge/C_Programming-%2300599C.svg?style=flat-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-badge&logo=c%2B%2B&logoColor=white)
@@ -60,7 +60,7 @@ See [my website](https://jrpranav.com) for more information!
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=flat-badge&logo=Scratch&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-badge&logo=markdown&logoColor=white)
 
-### Libraries & Framework :
+**_Libraries & Framework_**
 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-badge&logo=bootstrap&logoColor=white)
@@ -82,7 +82,7 @@ See [my website](https://jrpranav.com) for more information!
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flate-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flate-badge&logo=mysql&logoColor=white)
 
-### DevOps & Cloud Tools:
+**_Cloud Tools & VCS_**
 
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-badge&logo=git&logoColor=white)
