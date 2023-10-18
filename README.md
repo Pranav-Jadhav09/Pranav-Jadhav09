@@ -33,7 +33,7 @@
 ## About Me
 
 - 👋 &nbsp;JR.Pranav (The Tech Titan)
-- ❤️ &nbsp;I'm Love JavaScript
+- ❤️ &nbsp;I'm in Love with JavaScript
 - 🧠 &nbsp;I’m currently learning JavaScript and React
 - 💖 &nbsp;I love watching anime, sci-fi movies, & Trekking 🏔
 
