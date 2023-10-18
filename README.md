@@ -41,6 +41,61 @@ See [my website](https://jrpranav.com) for more information!
 
 <!-- Projects -->
 
+## Projects
+
+<table>
+<!-- 1st Row -->
+<tr>
+<td align="center" valign="top">
+<h3 align="center">Project Name</h3>
+<br />
+
+<div align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0XTbVrZMLGmD10TYwaBww-5p5p_gfINeO3Q&usqp=CAU" width="100%" alt="alternative images" />
+</div>
+<br />
+
+<div align="center">
+<a href="">🗂&nbsp;Repo</a>
+<span>|</span>
+<a href="">🌐&nbsp;Live</a>
+</div>
+
+<p align="center">
+Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+Dignissimos quam inventore nostrum esse assumenda, vero quasi!
+Cumque illum recusandae repellendus autem, ea quaerat est,
+consequuntur at, eligendi ut rerum dicta!
+</p>
+</td>
+
+<td align="center" valign="top">
+<h3 align="center">Project Name</h3>
+<br />
+
+<div align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0XTbVrZMLGmD10TYwaBww-5p5p_gfINeO3Q&usqp=CAU" width="100%" alt="alternative images" />
+</div>
+<br />
+
+<div align="center">
+<a href="">🗂&nbsp;Repo</a>
+<span>|</span>
+<a href="">🌐&nbsp;Live</a>
+</div>
+
+<p align="center">
+Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+Dignissimos quam inventore nostrum esse assumenda, vero quasi!
+Cumque illum recusandae repellendus autem, ea quaerat est,
+consequuntur at, eligendi ut rerum dicta!
+</p>
+</td>
+</tr>
+</table>
+
+<br />
+
 <!-- Skills -->
 
 ## Skills
