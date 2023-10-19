@@ -1,7 +1,5 @@
 <!-- banner -->
-
 ![banner](./banner.png)
-<br />
 
 **_Feel free to connect with me at your convenience_** 👉🏻
 [![personal website](https://img.shields.io/badge/www.jrpranav.com-255E63?style=flat&logo=About.me&logoColor=white)](https://jrpranav.com)
@@ -93,3 +91,4 @@ This project is a simple currency converter app built using JavaScript. It allow
 </tr>
 </table>
 
+<!-- banner -->
