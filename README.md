@@ -18,7 +18,7 @@
 - 👋&nbsp;I'm JR.Pranav **_(Aspiring Tech Titan)_**
 - ❤️&nbsp;I'm in Love with **_JavaScript_**
 - 🧠&nbsp;I’m currently learning **_JavaScript and React_**
-- 💖&nbsp;I love watching **_anime, sci-fi movies, & Staying Alone_**
+- 💖&nbsp;I love watching **_anime, sci-fi movies, & Documentaries_**
 
 <br />
 
