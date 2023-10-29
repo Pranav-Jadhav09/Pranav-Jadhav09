@@ -29,17 +29,22 @@
 ![javascript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![gsap](https://img.shields.io/badge/-GSAP_Animation-05122A?style=flat&logo=greensock)
+![php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![mysql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![github](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+
+<!--
 ![react](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![github](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![gsap](https://img.shields.io/badge/-GSAP_Animation-05122A?style=flat&logo=greensock)
 ![three.js](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js)
 ![P5.js](https://img.shields.io/badge/-P5.js-05122A?style=flat&logo=P5.js)
-![chart.js](https://img.shields.io/badge/-Chart.js-05122A?style=flat&logo=chart.js)
+![chart.js](https://img.shields.io/badge/-Chart.js-05122A?style=flat&logo=chart.js) -->
 
 <br />
 
