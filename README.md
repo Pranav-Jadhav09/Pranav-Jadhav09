@@ -21,6 +21,8 @@
 
 <br />
 
+
+
 ## 🛠 Growth Stack
 
 
@@ -95,4 +97,9 @@ This project is a simple currency converter app built using JavaScript. It allow
 </tr>
 </table>
 
-<!-- banner -->
+<br />
+
+## 📊 Stats
+
+[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Jadhav09&theme=github-compact)](https://github.com/Pranav-Jadhav09/github-readme-activity-graph)
+
