@@ -60,7 +60,7 @@
 <br />
 
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0XTbVrZMLGmD10TYwaBww-5p5p_gfINeO3Q&usqp=CAU" width="100%" alt="alternative images" />
+<img src="/1.png" width="100%" alt="alternative images" />
 </div>
 <br />
 
@@ -80,7 +80,7 @@ CodeBank website built using Tailwind CSS. Contains amazing flip card feature an
 <br />
 
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0XTbVrZMLGmD10TYwaBww-5p5p_gfINeO3Q&usqp=CAU" width="100%" alt="alternative images" />
+<img src="/2.png" width="100%" alt="alternative images" />
 </div>
 <br />
 
