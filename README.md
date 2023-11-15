@@ -29,21 +29,26 @@
 ![html5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![css3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![javascript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) <br />
 ![tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwindcss)
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![gsap](https://img.shields.io/badge/-GSAP_Animation-05122A?style=flat&logo=greensock)
-![git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![github](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![three.js](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js)
+![P5.js](https://img.shields.io/badge/-P5.js-05122A?style=flat&logo=P5.js)
+![chart.js](https://img.shields.io/badge/-Chart.js-05122A?style=flat&logo=chart.js) 
+![D3.js](https://img.shields.io/badge/-D3.js-05122A?style=flat&logo=D3.js)  <br />
 ![react](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![three.js](https://img.shields.io/badge/-Three.js-05122A?style=flat&logo=three.js)
-![P5.js](https://img.shields.io/badge/-P5.js-05122A?style=flat&logo=P5.js)
-![chart.js](https://img.shields.io/badge/-Chart.js-05122A?style=flat&logo=chart.js) 
-![D3.js](https://img.shields.io/badge/-D3.js-05122A?style=flat&logo=D3.js) 
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase) <br />
+![markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![github](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+
+
+
+
 
 
 <br />
