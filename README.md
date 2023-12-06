@@ -1,5 +1,5 @@
 <!-- banner -->
-![banner](./mission1.png)
+<!-- ![banner](./mission1.png) -->
 **_Feel free to connect with me at your convenience_** 👉🏻
 [![personal website](https://img.shields.io/badge/www.jrpranav.com-255E63?style=flat&logo=About.me&logoColor=white)](https://jrpranav.com)
 [![linkedin](https://img.shields.io/badge/Pranav_Jadhav-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-jr/)
