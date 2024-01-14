@@ -13,7 +13,7 @@ Get to know my skills and what I do in short? 👇 <br />
 [![Codepen](https://img.shields.io/badge/JR.Pranav-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/jrpranav)
 [![Gmail Badge](https://img.shields.io/badge/-pranav@jrpranav.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:pranav@jrpranav.com)](mailto:pranav@jrpranav.com)
 [![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=BioLink&logoColor=white&link=https://jrpranav.com/)](https://jrpranav.com/)
-[![Youtube Badge](https://img.shields.io/badge/-JR.Pranav-darkred?style=flat&logo=youtube&logoColor=white&link=https://youtube.com/@jrpranav)](https://youtube.com/@jrpranav)
+[![Youtube Badge](https://img.shields.io/badge/-JR.Pranav-CD201F?style=flat&logo=youtube&logoColor=white&link=https://youtube.com/@jrpranav)](https://youtube.com/@jrpranav)
 
 <!-- graph -->
 
