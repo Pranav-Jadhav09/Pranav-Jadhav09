@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 ## About Me
 
 - 💼 Full Stack Developer
-- 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js.
-- ✨ Completed Full Stack Development at Spark IT Institute
 - 🎓 Learning and Building in Public
+- ✨ Completed Full Stack Development at Spark IT Institute
+- 🌱 Currently enhancing my skills in HTML, CSS, Bootstrap, JavaScript, SQL, MongoDB, Node.js, Express.js, React.js.
 
 ## Tools and Languages
 
