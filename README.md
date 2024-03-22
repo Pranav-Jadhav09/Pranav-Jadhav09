@@ -21,25 +21,24 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 ![HTML](https://img.shields.io/badge/HTML-FF4500?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618.svg?style=flat&logo=radix-ui&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-<!--![Radix UI](https://img.shields.io/badge/Radix%20UI-161618.svg?style=flat&logo=radix-ui&logoColor=white)-->
-<!--![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)-->
-<!--![Next JS](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)-->
+## Projects
 
-<!-- ## Projects
-
-- [Netflix Clone](https://reactjsmini.ccbp.tech/login): A Netflix Clone App developed with user authentication. Username: **saira**, Password: **princess@9**
-- [NxT Trendz](https://reactjsmini.ccbp.tech/login): An E-Commerce website created using ReactJS with user authentication. Username: **rahul**, Password: **rahul@2021** -->
+- [Forkify](https://forkify-app-modern.vercel.app/): Forkify is a recipe web app that allows users to search, view, bookmark and add recipes.
+- [GitFinder](https://modern-gitfinder.vercel.app/): A GitFinder application to search GitHub users and view their repositories, followers, and more.
 
 ## Let's Connect!
 
