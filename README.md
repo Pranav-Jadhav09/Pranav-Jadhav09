@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
   <img
     src="https://komarev.com/ghpvc/?username=Pranav-Jadhav09"
     alt="Pranav_Jadhav"
-  />
+  /> 
 </p>
 
 ## About Me
